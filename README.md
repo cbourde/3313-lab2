@@ -1,1 +1,1 @@
-# 3313 Lab 2
+# 3313 Lab 2 (No semaphores)
